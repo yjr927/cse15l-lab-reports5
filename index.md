@@ -25,6 +25,13 @@ Student's Reply
 ![image](000.jpg)
 
 
+---
+Reflection
+---
+*During this quarter, the most exciting thing I learned was how to use GitHub to create a website. It is cool to have my webpage. Also, during labs, I learned many valuable skills and commends, and I also learned how Gradescope works, even creating one. 
+*
+
+
 
 ---
 The file & directory structure
